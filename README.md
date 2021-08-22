@@ -1,10 +1,10 @@
 ## Iai Beleza ? Eu sou o Marco Mecenas FIlho e seja Bem-vindo(a) ao  meu GitHub;
 
-#### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional. Sempre fui apaixonado por novas tecnologia, e agora estou estudando para ser um web developer Full-Stack;
+#### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional. Sempre fui apaixonado por novas tecnologias, e agora estou estudando para ser um web developer Full-Stack;
 
 ##### Como hobbies amo cozinhar, treinar, games e desenhar -->><a href="https://www.instagram.com/goliramaionese/">:monkey_face:</a><<-- .
 
-##### Sinta-se em casa.<br> Qualquer coisa estou aqui para ajudar!
+### Sinta-se em casa.<br> Qualquer coisa estou aqui para ajudar!
 
 
 <div>
