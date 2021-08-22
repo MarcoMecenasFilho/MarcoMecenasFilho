@@ -19,7 +19,14 @@
   <a href="https://www.instagram.com/marcomecenasfilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcomecenasfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<<<<<<< HEAD
    
   ![Snake animation](https://github.com/MarcoMecenasFilho/MarcoMecenasFilho/blob/output/github-contribution-grid-snake.svg)
   
 <div>
+=======
+  
+![Snake animation](https://github.com/MarcoMecenasFilho/MarcoMecenasFilho/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
+>>>>>>> 763fd88b2bf03ba712c8fe6c048d67b57dd3cc02
