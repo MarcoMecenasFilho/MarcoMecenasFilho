@@ -1,4 +1,4 @@
-## Iai Beleza ? Eu sou o Marco Mecenas FIlho e seja Bem-vindo(a) ao  meu GitHub;
+## Olá, tudo bom ? Sou o Marco Mecenas Filho e seja Bem-vindo(a) ao  meu GitHub;
 
 #### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional {<a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank">:mortar_board:</a>} . Sempre fui apaixonado por novas tecnologias, e agora estou estudando para ser um web developer Full-Stack;
 
