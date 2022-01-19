@@ -4,6 +4,12 @@
 
 ### Sinta-se em casa.<br> Qualquer coisa estou aqui para ajudar!
 
+<div>
+  <a href="https://github.com/MarcoMecenasFilho">
+  <img height="300" width="600" alt="hunter" src="hunter.gif">
+</div>
+
+
   <div style="display: inline_block"><br>
   <img align="center" alt="marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
