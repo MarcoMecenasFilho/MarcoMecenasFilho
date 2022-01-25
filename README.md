@@ -1,8 +1,8 @@
 ## Olá, tudo bom ? Sou o Marco Mecenas Filho e seja Bem-vindo(a) ao  meu GitHub;
 
-#### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional {<a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank">:mortar_board:</a>} . Sempre fui apaixonado por novas tecnologias, e agora estou estudando para ser um web developer Full-Stack;
-
-## Projeto de maior orgulho <a href="https://github.com/MarcoMecenasFilho/receitasshowshow" target="_blank">:trophy:</a>
+#### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional <a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank">LinkeDin :mortar_board:</a> . Sempre fui apaixonado por novas tecnologias, e agora estou estudando para ser um web developer Full-Stack;
+## <a href="https://marcomecenasfilho.herokuapp.com/" target="_blank">Portifólio 	:spiral_notepad:</a>
+## <a href="https://github.com/MarcoMecenasFilho/receitasshowshow" target="_blank">Projeto de maior orgulho :trophy:</a>
 
 ### Sinta-se em casa.<br> Qualquer coisa estou aqui para ajudar!
 
@@ -16,6 +16,7 @@
   <img align="center" alt="marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">
+    <img align="center" alt="marco-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
 
   ##
