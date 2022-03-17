@@ -1,7 +1,7 @@
 ## Olá, tudo bom ? Sou o Marco Mecenas Filho e seja Bem-vindo(a) ao  meu GitHub;
 
 #### Estou migrando para área de Tecnologia. Venho da  pesquisa ciêntifica,  mais especificamenta da Química Medicinal Computacional <a href="https://www.linkedin.com/in/marcomecenasfilho/" target="_blank">LinkeDin :mortar_board:</a> . Sempre fui apaixonado por novas tecnologias, e agora estou estudando para ser um web developer Full-Stack;
-## <a href="https://marcomecenasfilho.vercel.app/" target="_blank">Portifólio 	:spiral_notepad:</a>
+## <a href="https://marcomecenasfilho.vercel.app/" target="_blank">Portfólio 	:spiral_notepad:</a>
 ## <a href="https://github.com/MarcoMecenasFilho/receitasshowshow" target="_blank">Projeto de maior orgulho :trophy:</a>
 
 ### Sinta-se em casa.<br> Qualquer coisa estou aqui para ajudar!
